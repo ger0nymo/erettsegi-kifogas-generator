@@ -22,7 +22,13 @@ const kifogasok = [
     'Elavult a magyar oktatási rendszer',
     'Magyarországon nincs megfelelő nyelvoktatás',
     'Rosszul volt megfogalmazva a feladat',
-    'Nem az volt a töriben amit megtanultam'
+    'Nem az volt a töriben amit megtanultam',
+    'Kit érdekel az a hülye kutya életkora?', //update
+    'Nem is a Németh László volt a novellaelemzésben',
+    'Előtte egy nappal kezdtem el készülni, és mégsem jött össze az ötös :(',
+    'Mateking helyett Netflixre fizettem elő'
+    
+
 ]
 
 let generaltKifogas = ""
