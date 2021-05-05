@@ -23,11 +23,15 @@ const kifogasok = [
     'Magyarországon nincs megfelelő nyelvoktatás',
     'Rosszul volt megfogalmazva a feladat',
     'Nem az volt a töriben amit megtanultam',
-    'Kit érdekel az a hülye kutya életkora?', //update
+    'Kit érdekel az a hülye kutya életkora?', 
     'Nem is a Németh László volt a novellaelemzésben',
     'Előtte egy nappal kezdtem el készülni, és mégsem jött össze az ötös :(',
-    'Mateking helyett Netflixre fizettem elő'
+    'Mateking helyett Netflixre fizettem elő',
+    'A korcsmát kocsmának olvastam',
+    'Az lg helyett 1*9,81-et helyettesítettem be'
+    //update
     
+
 
 ]
 
