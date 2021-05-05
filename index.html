@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Érettségi kifogás generátor</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <style type="text/css">
+            body { text-align: center; padding: 10%; font: 20px Helvetica, sans-serif; color: #333; }
+            h1 { font-size: 50px; margin: 0; text-align: center;}
+            article { display: block; text-align: left; max-width: 650px; margin: 0 auto; }
+            footer { font-size: 15px; text-align: center; }
+            a { color: #dc8100; text-decoration: none; }
+            a:hover { color: #333; text-decoration: none; }
+            @media only screen and (max-width : 480px) {
+                h1 { font-size: 40px; }
+            }
+            .btn-generate {
+                border: none;
+                background: #404040;
+                color: #ffffff !important;
+                font-weight: 100;
+                padding: 20px;
+                text-transform: uppercase;
+                border-radius: 6px;
+                display: inline-block;
+                transition: all 0.3s ease 0s;
+            }
+            .btn-generate:hover {
+                color: #404040 !important;
+                font-weight: 700 !important;
+                letter-spacing: 3px;
+                background: none;
+                -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+                -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+                transition: all 0.3s ease 0s;
+            }
+        </style>
+    </head>
+    <body>
+        <article>
+            <h1>Érettségi kifogás generátor</h1>
+            <p style="text-align: center;">Ha egy új kifogásra van szükséged, csak nyomd meg a gombot :)</p>
+            <div class="button_cont" align="center"><a class="btn-generate" href="#">Új kifogás</a></div>
+            <h2 style="text-align: center; padding-top: 10px;" class="kifogas">Ide jön a kifogás</h2>
+            <footer style="font-style: italic; color: gray;">Mivel a kifogások száma véges, ezért az ismétlődés lehetősége fennáll</footer>
+        </article>
+        <script src="script.js"></script>
+    </body>
