@@ -28,7 +28,7 @@ const kifogasok = [
     'Előtte egy nappal kezdtem el készülni, és mégsem jött össze az ötös :(',
     'Mateking helyett Netflixre fizettem elő',
     'A korcsmát kocsmának olvastam',
-    'Az lg helyett 1*9,81-et helyettesítettem be'
+    'Az lg helyett 1*9,81-et helyettesítettem be',
     'A matekra születni kell'
     //update
 ]
