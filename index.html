@@ -26,6 +26,8 @@
                 transition: all 0.3s ease 0s;
             }
             .btn-generate:hover {
+                user-select: none;
+                cursor: pointer;
                 color: #404040 !important;
                 font-weight: 700 !important;
                 letter-spacing: 3px;
@@ -40,7 +42,7 @@
         <article>
             <h1>Érettségi kifogás generátor</h1>
             <p style="text-align: center;">Ha egy új kifogásra van szükséged, csak nyomd meg a gombot :)</p>
-            <div class="button_cont" align="center"><a class="btn-generate" href="#">Új kifogás</a></div>
+            <div class="button_cont" align="center"><a class="btn-generate">Új kifogás</a></div>
             <h2 style="text-align: center; padding-top: 10px;" class="kifogas"></h2>
             <footer style="font-style: italic; color: gray;">Mivel a kifogások száma véges, ezért az ismétlődés lehetősége fennáll</footer>
         </article>
