@@ -29,15 +29,13 @@ const kifogasok = [
     'Mateking helyett Netflixre fizettem elő',
     'A korcsmát kocsmának olvastam',
     'Az lg helyett 1*9,81-et helyettesítettem be'
+    'A matekra születni kell'
     //update
-    
-
-
 ]
 
 let generaltKifogas = ""
 generaloGomb.addEventListener("click", () => {
-    generaltKifogas = kifogasok[Math.floor(Math.random() * kifogasok.length)];
+    generaltKifogas = kifogasok[Math.floor(Math.random() * kifogasok.length)]
     kifogas.textContent = generaltKifogas
 })
 
