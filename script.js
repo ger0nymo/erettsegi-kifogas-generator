@@ -29,8 +29,33 @@ const kifogasok = [
     'Mateking helyett Netflixre fizettem elő',
     'A korcsmát kocsmának olvastam',
     'Az lg helyett 1*9,81-et helyettesítettem be',
-    'A matekra születni kell'
-    //update
+    'A matekra születni kell',
+    'Nem akart segíteni nekem a tanár érettségi közben',
+    'Nekünk nem tanítottak ilyen logaritmusokat',
+    'Elmarad a szóbeli én pedig írni ugye nem tudok',
+    'Nem lehetett érteni az angol érettségin a listening feladatokat, mert nem magyarul beszéltek.',
+    'Nem volt elég időm, mert beszorultam a vécébe',
+    'Azthittem, ha nincs szóbeli nem kell tanulni se',
+    'Nem tudtam, hogy május eleje az érettségi időpont',
+    'Nem tudtam hogy az év végén ilyen vizsgát kell tennünk',
+    'Bevertem a fejem előtte, és nem tudtam koncentrálni',
+    'Kiverte a koronavírus a kezemből a tollat',
+    'A maszktól bepárásodott a szemüvegem, és nem láttam a feladatlapot',
+    'Azt hittem a matekon középszinten nem kell tudni a törteket',
+    'Végig szarnom kellett',
+    'Rossz pálinkát ittam érettségi előtt',
+    'Nem vittem szögmérőt sajnos',
+    'Nem vagyok az IQ spektrumon',
+    'Nem vihettem szótárat a matekra :((',
+    'Nem a 10-es számredszerben tanították nekem a matekot...',
+    'Életembe nem hallottam még Debrecenről',
+    'A dualizmus nem is létezett soha',
+    'Sosem hallottam még Periklész nevét...',
+    'Nem Mátyás pénzügyei volt az esszétéma',
+    '"Nem volt alkalmunk az utóbbi egy évben rendesen elsajátítani a feladatokhoz szükséges tudást" - Anita, Szeged',
+    'Az idegennyelvűre készültem',
+    'Elkaptak a bokszosok, nem értem oda'
+    // update
 ]
 
 let generaltKifogas = ""
